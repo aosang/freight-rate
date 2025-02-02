@@ -1,0 +1,13 @@
+@font-face {
+	font-family: siyuan;
+	src: local('./fonts/SourceHanSans.ttf');
+}
+
+body {
+	font-family: siyuan;
+}
+
+.tabbar-box {
+	width: 100%;
+	height: 200rpx;
+}

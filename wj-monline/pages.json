@@ -1,0 +1,274 @@
+{
+	"lazyCodeLoading":"requiredComponents",
+	"pages": [{
+		"path": "pages/home/home",
+		"style": {
+			"navigationBarTitleText": "",
+			"navigationStyle": "custom",
+			"app-plus": {
+				"titleNView": false
+			}
+		}
+	}, {
+		"path": "pages/profile/profile",
+		"style": {
+			"navigationBarTextStyle": "black",
+			"navigationBarTitleText": "%navigate.profile%",
+			"enablePullDownRefresh": false
+		}
+
+	}, {
+		"path": "pages/register/register",
+		"style": {
+			"navigationBarTitleText": "%navigate.world%",
+			"enablePullDownRefresh": false,
+			"navigationBarTextStyle": "black"
+		}
+	}, {
+		"path": "pages/login/login",
+		"style": {
+			"navigationBarTitleText": "万嘉集运Online",
+			"enablePullDownRefresh": false,
+			"navigationBarTextStyle": "black"
+		}
+
+	}, {
+		"path": "pages/checklogin/checklogin",
+		"style": {
+			"navigationBarTitleText": "%navigate.world%",
+			"enablePullDownRefresh": false,
+			"navigationBarTextStyle": "black"
+		}
+	}, {
+		"path": "pages/saveimage/saveimage",
+		"style": {
+			"navigationBarTitleText": "生成拼箱报价单",
+			"enablePullDownRefresh": false,
+			"navigationBarTextStyle": "black"
+		}
+	}, {
+		"path": "pages/savefclimage/savefclimage",
+		"style": {
+			"navigationBarTitleText": "生成整箱报价单",
+			"enablePullDownRefresh": false,
+			"navigationBarTextStyle": "black"
+		}
+	}],
+
+	// 分包
+	"subPackages": [{
+		"root": "pages/subPack", //子包的根目录
+		"pages": [{
+			"path": "business/business",
+			"style": {
+				"navigationBarTitleText": "%navigate.business%",
+				"enablePullDownRefresh": false,
+				"navigationBarTextStyle": "black"
+			}
+		}, {
+			"path": "editinfo/editinfo",
+			"style": {
+				"navigationBarTitleText": "%navigate.edit%",
+				"enablePullDownRefresh": false,
+				"navigationBarTextStyle": "black"
+			}
+		}, {
+			"path": "lcldetails/lcldetails",
+			"style": {
+				"navigationBarTitleText": "%navigate.details%",
+				"enablePullDownRefresh": false,
+				"navigationBarTextStyle": "white",
+				"navigationBarBackgroundColor": "#48a1f7"
+			}
+		}, {
+			"path": "airdetails/airdetails",
+			"style": {
+				"navigationBarTitleText": "空运出口详情",
+				"enablePullDownRefresh": false,
+				"navigationBarTextStyle": "white",
+				"navigationBarBackgroundColor": "#48a1f7"
+			}
+		}, {
+			"path": "lcllist/lcllist",
+			"style": {
+				"navigationBarTitleText": "%navigate.list%",
+				"enablePullDownRefresh": false,
+				"navigationBarTextStyle": "black",
+				"onReachBottomDistance": 50
+			}
+		}, {
+			"path": "airlist/airlist",
+			"style": {
+				"navigationBarTitleText": "空运出口列表",
+				"enablePullDownRefresh": false,
+				"navigationBarTextStyle": "black",
+				"onReachBottomDistance": 50
+			}
+		}, {
+			"path": "lclilist/lclilist",
+			"style": {
+				"navigationBarTitleText": "进口拼箱列表",
+				"enablePullDownRefresh": false,
+				"navigationBarTextStyle": "black",
+				"onReachBottomDistance": 50
+			}
+		}, {
+			"path": "lclflist/lclflist",
+			"style": {
+				"navigationBarTitleText": "海出整箱列表",
+				"enablePullDownRefresh": false,
+				"navigationBarTextStyle": "black",
+				"onReachBottomDistance": 50
+			}
+		}, {
+			"path": "search/search",
+			"style": {
+				"navigationBarTitleText": "%navigate.export%",
+				"enablePullDownRefresh": false,
+				"navigationBarTextStyle": "black"
+			}
+		}, {
+			"path": "historyprice/historyprice",
+			"style": {
+				"navigationBarTitleText": "%navigate.hisory%",
+				"enablePullDownRefresh": false,
+				"navigationBarTextStyle": "black"
+			}
+		}, {
+			"path": "historydetails/historydetails",
+			"style": {
+				"navigationBarTitleText": "%history.details%",
+				"enablePullDownRefresh": false,
+				"navigationBarTextStyle": "black"
+			}
+		}, {
+			"path": "historyFdetails/historyFdetails",
+			"style": {
+				"navigationBarTitleText": "海出整箱",
+				"enablePullDownRefresh": false,
+				"navigationBarTextStyle": "black"
+			}
+		}, {
+			"path": "isearch/isearch",
+			"style": {
+				"navigationBarTitleText": "%navigate.import%",
+				"enablePullDownRefresh": false,
+				"navigationBarTextStyle": "black"
+			}
+		}, {
+			"path": "fsearch/fsearch",
+			"style": {
+				"navigationBarTitleText": "出口整箱",
+				"enablePullDownRefresh": false,
+				"navigationBarTextStyle": "black"
+			}
+		}, {
+			"path": "airsearch/airsearch",
+			"style": {
+				"navigationBarTitleText": "空运出口",
+				"enablePullDownRefresh": false,
+				"navigationBarTextStyle": "black"
+			}
+		}, {
+			"path": "lclidetails/lclidetails",
+			"style": {
+				"navigationBarTitleText": "%navigate.imdetails%",
+				"enablePullDownRefresh": false,
+				"navigationBarTextStyle": "white",
+				"navigationBarBackgroundColor": "#48a1f7"
+			}
+		}, {
+			"path": "lclfdetails/lclfdetails",
+			"style": {
+				"navigationBarTitleText": "海出整箱",
+				"enablePullDownRefresh": false,
+				"navigationBarTextStyle": "white",
+				"navigationBarBackgroundColor": "#48a1f7"
+			}
+		}, {
+			"path": "agreement/agreement",
+			"style": {
+				"navigationBarTitleText": "%navigate.agreement%",
+				"enablePullDownRefresh": false,
+				"navigationBarTextStyle": "black"
+			}
+		}, {
+			"path": "agreement/agreementen",
+			"style": {
+				"navigationBarTitleText": "%navigate.agreement%",
+				"enablePullDownRefresh": false,
+				"navigationBarTextStyle": "black"
+			}
+		}, {
+			"path": "savecard/savecard",
+			"style": {
+				"navigationBarTitleText": "%navigate.service%",
+				"enablePullDownRefresh": false,
+				"navigationBarTextStyle": "black"
+			}
+		}, {
+			"path": "landsearch/landsearch",
+			"style": {
+				"navigationBarTitleText": "%ltl.title%",
+				"enablePullDownRefresh": false,
+				"navigationBarTextStyle": "black"
+			}
+		}, {
+			"path": "trucksearch/trucksearch",
+			"style": {
+				"navigationBarTitleText": "集卡陆运",
+				"enablePullDownRefresh": false,
+				"navigationBarTextStyle": "black"
+			}
+		}, {
+			"path": "landList/landList",
+			"style": {
+				"navigationBarTitleText": "散货查询列表",
+				"enablePullDownRefresh": false,
+				"navigationBarTextStyle": "black"
+			}
+		}, {
+			"path": "truckList/truckList",
+			"style": {
+				"navigationBarTitleText": "集卡查询列表",
+				"enablePullDownRefresh": false,
+				"navigationBarTextStyle": "black"
+			}
+		}]
+	}],
+
+	"preloadRule": {
+		"pages/home/home": {
+			"network": "all",
+			"packages": ["pages/subPack"]
+		}
+	},
+
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+
+	"tabBar": {
+		"backgroundColor": "#fff",
+		"borderStyle": "black",
+		"selectedColor": "#4293f7",
+		"color": "#cdcdcd",
+
+		"list": [{
+			"pagePath": "pages/home/home",
+			"iconPath": "static/images/tabBar/home.png",
+			"selectedIconPath": "static/images/tabBar/home_o.png",
+			"text": "%tabbar.home%"
+		}, {
+			"pagePath": "pages/profile/profile",
+			"iconPath": "static/images/tabBar/profile.png",
+			"selectedIconPath": "static/images/tabBar/profile_o.png",
+			"text": "%tabbar.profile%"
+		}]
+	},
+
+	"uniIdRouter": {}
+}

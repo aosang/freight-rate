@@ -1,0 +1,21 @@
+{
+  "name": "wj-monline",
+  "version": "1.0.0",
+  "description": "线上询价移动端小程序",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/xiaole2071/wj-monline.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@escook/request-miniprogram": "^0.2.1",
+    "lodash": "^4.17.21",
+    "pubsub-js": "^1.9.4"
+  }
+}
