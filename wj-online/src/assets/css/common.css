@@ -1,0 +1,79 @@
+body,
+div,
+p,
+ul,
+ol,
+dl,
+h1,
+h2,
+h3,
+h4,
+h5,
+a,
+i,
+label,
+img,
+input,
+textarea {
+  margin: 0;
+  padding: 0;
+}
+
+textarea,
+input,
+button {
+  outline: none;
+  display: block;
+  border: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-weight: 500;
+}
+
+ul,
+ol,
+dl {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+a,
+i,
+span {
+  display: inline-block;
+}
+
+body,html {
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: siyuan;
+  src: url('./fonts/SourceHanSans.ttf');
+}
+
+body {
+  background: #eff3f6;
+  font-family: siyuan 
+}
+
+img {
+  display: block;
+  border: none;
+}
+
+.el-carousel__arrow--right, .el-notification.right {
+  right: 0 !important;
+}
+
+.el-pager li.active {
+  color: #0081ff !important;
+}
