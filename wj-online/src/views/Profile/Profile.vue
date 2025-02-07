@@ -4,7 +4,7 @@
       <el-header>
         <div class="Profile-header-pic">
           <img 
-            src="https://wxa.worldjaguar.com/webview/images/wj_online/wj_logo.png" 
+            src="https://www.wangle.run/images/myImage/wj_online/wj_logo.png" 
             alt="" 
             @click="goToHome"
           >
@@ -21,7 +21,7 @@
                   <img 
                     style="width: 278px; height: 408px" 
                     class="Header-mini" 
-                    src="https://wxa.worldjaguar.com/webview/images/wj_online/miniprogram.png"
+                    src="https://www.wangle.run/images/myImage/wj_online/miniprogram.png"
                   >
                 </div>
               </el-dropdown-menu>
@@ -193,7 +193,7 @@ export default {
 }
 
 .Profile-header-pic {
-  width: 130px;
+  width: 150px;
 }
 
 .Profile-header-pic img {

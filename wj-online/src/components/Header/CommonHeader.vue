@@ -3,7 +3,7 @@
     <div class="Header-top">
       <!-- nav-left -->
       <div class="Header-l">
-        <div class="Header-l-text">欢迎访问万嘉集运线上系统</div>
+        <div class="Header-l-text">欢迎访问线上询价系统</div>
         <el-dropdown placement="bottom">
           <span class="el-dropdown-link">
             微信小程序
@@ -14,7 +14,7 @@
               <img 
                 style="width: 320px" 
                 class="Header-mini" 
-                src="https://wxa.worldjaguar.com/webview/images/wj_online/miniprogram.png">
+                src="https://www.wangle.run/images/myImage/wj_online/miniprogram.png">
             </div>
           </el-dropdown-menu>
         </el-dropdown>
@@ -35,7 +35,7 @@
     <!-- 导航 -->
     <div class="Header-bottom">
       <div class="Header-bottom-l" @click="goHome">
-        <img src="https://wxa.worldjaguar.com/webview/images/wj_online/wj_logo_o.png" alt="">
+        <img src="https://www.wangle.run/images/myImage/wj_online/wj_logo_o.png" alt="">
       </div>
       <div class="Header-bottom-m">
         <ul class="header-menu">

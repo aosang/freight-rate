@@ -1,7 +1,8 @@
 <template>
   <div class="MaskLoad" v-show="isMaskLoad">
-    <div class="wave" style="--c: #fa5601">WORLD PLAN</div>
-    <div class="wave">WORLD JAGUAR</div>
+    <img src="https://www.wangle.run/images/myImage/wj_online/wj_logo.png" alt="">
+    <!-- <div class="wave" style="--c: #fa5601">WORLD PLAN</div>
+    <div class="wave">WORLD JAGUAR</div> -->
   </div>
 </template>
 

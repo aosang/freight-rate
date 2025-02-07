@@ -1,6 +1,6 @@
 <template>
   <div class="Footer">
-    <p>Copyright © 2022 - 2023 <a href="https://beian.miit.gov.cn/" target="__blank">鲁ICP备11007633号-2</a></p>
+    <!-- <p>Copyright © 2022 - 2023 <a href="https://beian.miit.gov.cn/" target="__blank">鲁ICP备11007633号-2</a></p> -->
   </div>
 </template>
 

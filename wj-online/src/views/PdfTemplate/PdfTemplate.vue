@@ -7,13 +7,15 @@
             <div class="info-l-head">
               <!-- <canvas ref="headCanvas" style="position: absolute;height: 0; width: 0;opacity: 0;"></canvas> -->
               <img src="@/assets/images/wj_logo.png" alt="万嘉logo" />
-              <img src="@/assets/images/td_logo.png" alt="通达logo" />
+              <!-- <img src="@/assets/images/td_logo.png" alt="通达logo" /> -->
               <div class="info-l-name">
                 <h3>
-                  {{userInfo.CompanyName? userInfo.CompanyName : "青岛万嘉集运物流有限公司"}}
+                  <!-- {{userInfo.CompanyName? userInfo.CompanyName : "青岛万嘉集运物流有限公司"}} -->
+                  欢迎访问使用线上询价系统
                 </h3>
                 <p>
-                  {{userInfo.EnCompanyName? userInfo.EnCompanyName : "World Jaguar Logistics Inc."}}
+                  Welcome to use the online quotation system.
+                  <!-- {{userInfo.EnCompanyName? userInfo.EnCompanyName : "World Jaguar Logistics Inc."}} -->
                 </p>
               </div>
             </div>
@@ -70,7 +72,7 @@
             <div class="info-contact">
               <p>联系人：<span>{{userInfo.F_RealName ? userInfo.F_RealName : "--"}}</span></p>
               <p>电话：<span>{{userInfo.F_Mobile ? userInfo.F_Telephone : "--"}}</span></p>
-              <p>邮箱：<span>{{userInfo.F_Email ? userInfo.F_Email : "--"}}</span></p>
+              <p>邮箱：<span>Miles@example.com</span></p>
               <p>时间：<span>{{ dateText }}&nbsp;{{ timeText }}</span></p>
             </div>
           </div>

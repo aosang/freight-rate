@@ -3,8 +3,8 @@
     <Header></Header>
     <div class="Home-mask"></div>
     <div class="Home-box">
-      <h2 class="Home-box-title">集运天下 世界万嘉</h2>
-      <p class="Home-box-subtitle">青岛万嘉集运物流有限公司</p>
+      <h2 class="Home-box-title">实时运价，一键查询</h2>
+      <p class="Home-box-subtitle">一键快速报价，查询历史记录可追溯，直观了解运价变化</p>
 
       <!-- 搜素部分 -->
       <div class="Home-tab">
@@ -1279,7 +1279,7 @@ export default {
       text-align: center;
       font-size: 18px;
       color: #fff;
-      letter-spacing: 5px;
+      letter-spacing: 1px;
       margin-top: 6px;
     }
 
