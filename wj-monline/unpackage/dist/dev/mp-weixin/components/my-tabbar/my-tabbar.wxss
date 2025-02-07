@@ -1,0 +1,415 @@
+.myTab.data-v-c2722278 {
+  width: 100%;
+  margin-top: 20rpx;
+}
+.myTab .lcldetails-bottom.data-v-c2722278 {
+  display: flex;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  height: 88rpx;
+  background: #fff;
+  padding-bottom: constant(safe-area-inset-bottom);
+  padding-bottom: env(safe-area-inset-bottom);
+  z-index: 3;
+  border-top: 1px solid #eee;
+}
+.myTab .lcldetails-bottom .bottom-item.data-v-c2722278 {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.myTab .lcldetails-bottom .bottom-item .iconfont.data-v-c2722278 {
+  color: #999;
+  font-size: 56rpx;
+  padding: 0;
+}
+.myTab .lcldetails-bottom .bottom-item .bottom-text.data-v-c2722278 {
+  font-size: 28rpx;
+  color: #999;
+}
+.myTab .myTab-title.data-v-c2722278 {
+  display: flex;
+  background: #dfe6e9;
+  border-radius: 20rpx;
+  align-items: center;
+  padding: 0 24rpx;
+  box-sizing: border-box;
+}
+.myTab .myTab-title text.data-v-c2722278 {
+  flex: 1;
+  text-align: center;
+  font-size: 26rpx;
+  padding: 10rpx 0;
+  color: #8a8e9d;
+}
+.myTab .myTab-title .active.data-v-c2722278 {
+  font-weight: 550;
+  color: #48a1f7;
+  background: #fff;
+  margin: 16rpx;
+  border-radius: 30rpx;
+}
+.myTab .tab-ocean.data-v-c2722278 {
+  background: #fff;
+  padding: 24rpx;
+  margin-top: 20rpx;
+}
+.myTab .tab-ocean .tabpub-title.data-v-c2722278 {
+  color: #000;
+  font-weight: 550;
+  font-size: 28rpx;
+}
+.myTab .tab-ocean .ocean-table.data-v-c2722278 {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-top: 20rpx;
+  justify-content: space-around;
+}
+.myTab .tab-ocean .ocean-table .ocean-item.data-v-c2722278 {
+  width: 47%;
+  height: 72rpx;
+  line-height: 72rpx;
+  font-size: 26rpx;
+  color: #444754;
+  border: 1px solid #eee;
+  padding: 0 0 0 16rpx;
+}
+.myTab .tab-ocean .ocean-mark.data-v-c2722278 {
+  margin-top: 20rpx;
+}
+.myTab .tab-ocean .ocean-mark .ocean-mark-title.data-v-c2722278 {
+  display: flex;
+  align-items: center;
+}
+.myTab .tab-ocean .ocean-mark .ocean-mark-title .iconfont.data-v-c2722278 {
+  font-size: 40rpx;
+  margin-right: 4rpx;
+}
+.myTab .tab-ocean .ocean-mark .ocean-mark-title .mark-text.data-v-c2722278 {
+  font-size: 26rpx;
+}
+.myTab .tab-ocean .ocean-mark .mark-word.data-v-c2722278 {
+  margin-top: 10rpx;
+  font-size: 26rpx;
+  color: #616577;
+  line-height: 40rpx;
+}
+.myTab .tab-ocean .oceanfee-item.data-v-c2722278 {
+  margin-top: 28rpx;
+  border-bottom: 1px solid #eee;
+  padding: 0 0 28rpx 0;
+}
+.myTab .tab-ocean .oceanfee-item .ocean-inner.data-v-c2722278 {
+  font-size: 26rpx;
+}
+.myTab .tab-ocean .oceanfee-item .ocean-inner .oceanfee-name.data-v-c2722278 {
+  display: block;
+  color: #737687;
+}
+.myTab .tab-ocean .oceanfee-item .ocean-inner .oceanfee-num.data-v-c2722278 {
+  color: #000;
+  font-weight: 550;
+}
+.myTab .tab-ocean .oceanfee-item .oceanfee-mark.data-v-c2722278 {
+  margin-top: 10rpx;
+  padding: 16rpx 12px;
+  color: #616577;
+  font-size: 26rpx;
+  background: #eee;
+  border-radius: 12rpx;
+}
+.myTab .tab-ocean .oceanfee-item .oceanfee-mark text.data-v-c2722278 {
+  margin-right: 24rpx;
+  line-height: 40rpx;
+}
+.myTab .ocean-computed.data-v-c2722278 {
+  width: 100%;
+  background: #fff;
+  margin-top: 20rpx;
+  padding: 30rpx;
+  box-sizing: border-box;
+}
+.myTab .ocean-computed .ocean-rquired.data-v-c2722278 {
+  font-size: 26rpx;
+  color: #e43d33;
+}
+.myTab .ocean-computed .ocean-computed-box.data-v-c2722278 {
+  display: flex;
+  align-items: center;
+  background: #dfe6e9;
+  border-radius: 20rpx;
+  margin-top: 20rpx;
+}
+.myTab .ocean-computed .ocean-computed-box .computed-item.data-v-c2722278 {
+  flex: 1;
+  height: 120rpx;
+  display: flex;
+  flex-direction: column;
+  font-size: 26rpx;
+  text-align: center;
+  justify-content: center;
+}
+.myTab .computed-sea.data-v-c2722278 {
+  width: 100%;
+  background: #fff;
+  padding: 30rpx;
+  margin-top: 20rpx;
+  font-size: 28rpx;
+  box-sizing: border-box;
+}
+.myTab .computed-sea .pub-top.data-v-c2722278 {
+  position: relative;
+  padding: 0 0 30rpx 0;
+  color: #000;
+  font-weight: 550;
+  border-bottom: 1px solid #eee;
+}
+.myTab .computed-sea .pub-top .addFeeBtn.data-v-c2722278 {
+  position: absolute;
+  top: 0;
+  right: 10rpx;
+  text-decoration: underline;
+  color: #2979ff;
+  font-size: 26rpx;
+}
+.myTab .computed-sea .pub-top .computed-price.data-v-c2722278 {
+  margin: 20rpx 20rpx 0 0;
+  color: #f53;
+  font-size: 28rpx;
+  font-weight: 500;
+}
+.myTab .computed-sea .pub-item.data-v-c2722278 {
+  position: relative;
+  padding: 20rpx 0;
+  border-bottom: 1px solid #eee;
+  font-size: 28rpx;
+}
+.myTab .computed-sea .pub-item .pub-item-title.data-v-c2722278 {
+  max-width: 660rpx;
+  word-break: break-word;
+}
+.myTab .computed-sea .pub-item .pub-result.data-v-c2722278 {
+  margin-top: 10rpx;
+  color: #4191df;
+}
+.myTab .computed-sea .pub-item .pub-edit.data-v-c2722278 {
+  position: absolute;
+  right: 30rpx;
+  top: 30rpx;
+  color: #4191df;
+  text-decoration: underline;
+}
+.myTab .computed-sea .pub-item .pub-btn.data-v-c2722278 {
+  position: absolute;
+  top: 24rpx;
+  right: 10rpx;
+  display: flex;
+}
+.myTab .computed-sea .pub-item .pub-btn .iconfont.data-v-c2722278 {
+  color: #e43d33;
+  font-size: 44rpx;
+  margin-left: 20rpx;
+}
+.myTab .computed-sea .pub-mask.data-v-c2722278 {
+  padding: 10rpx 0;
+  color: #8a8e9d;
+  line-height: 40rpx;
+}
+.pub-tips.data-v-c2722278 {
+  margin-top: 20rpx;
+  padding: 0 24rpx;
+  font-size: 26rpx;
+  color: #a4a4a4;
+}
+.add-box.data-v-c2722278 {
+  width: 600rpx;
+  background: #fff;
+  box-sizing: border-box;
+  padding: 30rpx;
+  border-radius: 10rpx;
+}
+.add-box .add-item.data-v-c2722278 {
+  margin-bottom: 24rpx;
+}
+.add-box .add-item .add-select.data-v-c2722278 {
+  display: flex;
+  width: 100%;
+  height: 72rpx;
+  border: 1px solid #dcdfe6;
+  border-radius: 10rpx;
+  box-sizing: border-box;
+  padding-left: 20rpx;
+  line-height: 68rpx;
+  color: #000;
+}
+.add-box .add-item .add-select .iconfont.data-v-c2722278 {
+  margin: 0 20rpx 0 auto;
+}
+.add-box .add-btn.data-v-c2722278 {
+  width: 60%;
+  display: flex;
+  overflow: inherit;
+  margin: 50rpx auto 0 auto;
+}
+.change-box.data-v-c2722278 {
+  width: 600rpx;
+  background: #fff;
+  padding: 30rpx;
+  border-radius: 10rpx;
+}
+.change-box .change-item.data-v-c2722278 {
+  margin-bottom: 24rpx;
+}
+.change-box .change-item .change-number.data-v-c2722278 {
+  width: 100%;
+  height: 72rpx;
+  border: 1px solid #dcdfe6;
+  border-radius: 10rpx;
+  line-height: 72rpx;
+  padding-left: 24rpx;
+  box-sizing: border-box;
+}
+.change-box .change-btn.data-v-c2722278 {
+  width: 60%;
+  display: flex;
+  overflow: inherit;
+  margin: 50rpx auto 0 auto;
+}
+.editAddComputed.data-v-c2722278 {
+  width: 640rpx;
+  background: #fff;
+  border-radius: 20rpx;
+  padding: 28rpx;
+}
+.editAddComputed .custom-top.data-v-c2722278 {
+  position: relative;
+  background: #fff;
+  color: #000;
+  border-bottom: 1px solid #eee;
+}
+.editAddComputed .custom-top .closeBtn.data-v-c2722278 {
+  position: absolute;
+  top: 0;
+  right: 4rpx;
+  font-size: 44rpx;
+}
+.editAddComputed .custom-top .custom-top-title.data-v-c2722278 {
+  font-size: 28rpx;
+  font-weight: 550;
+}
+.editAddComputed .custom-top .custom-top-subtitle.data-v-c2722278 {
+  font-size: 26rpx;
+  margin-top: 10rpx;
+}
+.editAddComputed .custom-top .custom-top-scope.data-v-c2722278 {
+  font-size: 26rpx;
+  color: #566090;
+  font-weight: 550;
+  margin: 10rpx 0 20rpx 0;
+}
+.editAddComputed .custom-top .custom-top-scope text.data-v-c2722278 {
+  margin-right: 30rpx;
+}
+.editAddComputed .custom-input.data-v-c2722278 {
+  width: 100%;
+  background: #fff;
+  box-sizing: border-box;
+  margin-top: 20rpx;
+}
+.editAddComputed .custom-input .custom-btn.data-v-c2722278 {
+  height: 84rpx;
+  line-height: 84rpx;
+  margin-top: 32rpx;
+  background: #48a1f7;
+  font-size: 30rpx;
+}
+.editAddComputed .custom-input .custom-item.data-v-c2722278 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  margin-bottom: 30rpx;
+}
+.editAddComputed .custom-input .custom-item .landsearch-item-picker.data-v-c2722278 {
+  width: 90%;
+  margin-top: 10rpx;
+  border-bottom: 1px solid #f2f2f2;
+  padding: 10rpx 0 10rpx 0;
+  box-sizing: border-box;
+}
+.editAddComputed .custom-input .custom-item .landsearch-item-picker .land-searchtip.data-v-c2722278 {
+  color: #808080;
+  font-size: 28rpx;
+}
+.editAddComputed .custom-input .custom-item .pickekstyle.data-v-c2722278 {
+  position: relative;
+  width: 76.5%;
+  height: 72rpx;
+  border: 1px solid #f2f2f2;
+  box-sizing: border-box;
+  line-height: 72rpx;
+}
+.editAddComputed .custom-input .custom-item .iconAdd.data-v-c2722278 {
+  position: absolute;
+  top: 58rpx;
+  right: 20rpx;
+}
+.editAddComputed .custom-input .custom-item .custom-picker.data-v-c2722278 {
+  display: flex;
+  align-items: center;
+  font-size: 28rpx;
+  color: #555;
+}
+.editAddComputed .custom-input .custom-item input.data-v-c2722278 {
+  height: 68rpx;
+  margin-left: 20rpx;
+  font-size: 28rpx;
+  border-bottom: 1px solid #f2f2f2;
+  padding-left: 20rpx;
+}
+.editAddComputed .custom-input .custom-item text.data-v-c2722278 {
+  font-size: 26rpx;
+  font-weight: 550;
+  margin-right: 20rpx;
+}
+.editAddComputed .custom-input .fee-item.data-v-c2722278 {
+  display: block;
+  margin-bottom: 20rpx;
+}
+.editAddComputed .custom-input .fee-item input.data-v-c2722278 {
+  border: 1px solid #f2f2f2;
+  margin-left: 0;
+  padding-left: 20rpx;
+  font-size: 28rpx;
+  height: 64rpx;
+}
+.editAddComputed .custom-input .mark-item text.data-v-c2722278 {
+  display: block;
+  font-size: 26rpx;
+  font-weight: 500;
+  margin: 0 0 20rpx 0;
+}
+.editAddComputed .custom-input .mark-item textarea.data-v-c2722278 {
+  width: 100%;
+  height: 120rpx;
+  border: 1px solid #eee;
+  box-sizing: border-box;
+  padding: 10rpx 0 0 20rpx;
+  font-size: 28rpx;
+}
+.public-mark.data-v-c2722278 {
+  width: 100%;
+  padding: 4rpx 24rpx 24rpx 24rpx;
+  font-size: 28rpx;
+  background: #fff;
+  color: #737687;
+  box-sizing: border-box;
+}
+button.data-v-c2722278::after {
+  border: none;
+}
+

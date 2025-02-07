@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "万嘉集运online",
+  "enablePullDownRefresh": false,
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "ws-wx-privacy": "/uni_modules/ws-wx-privacy/components/ws-wx-privacy/ws-wx-privacy",
+    "uni-drawer": "/uni_modules/uni-drawer/components/uni-drawer/uni-drawer"
+  }
+}

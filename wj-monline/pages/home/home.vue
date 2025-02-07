@@ -20,7 +20,7 @@
 		<!-- #endif -->
 		
 		<view class="home-image">
-			<image :src="imgUrl" mode="widthFix"></image>
+			<image src="https://www.wangle.run/images/myImage/wj_monline/home_banner.jpg" mode="widthFix"></image>
 		</view>
 		<!-- nav-icon -->
 		<view class="home-nav">
@@ -112,7 +112,7 @@
 				applicationLocal: '',
 				queryCode: '',
 				code: '',
-				imgUrl: 'https://wxa.worldjaguar.com/webview/images/wj_monline/home_banner.jpg',
+				imgUrl: 'https://www.wangle.run/images/myImage/wj_monline/home_banner.jpg',
 				scene: ''
 			}
 		},

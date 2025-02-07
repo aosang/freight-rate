@@ -1,0 +1,71 @@
+.root .lcldetails .lcldetails-top.data-v-aed1d958 {
+  width: 100%;
+  background: #48a1f7;
+  padding: 24rpx;
+  box-sizing: border-box;
+}
+.root .lcldetails .lcldetails-top .lcldetails-ship.data-v-aed1d958 {
+  background: #4191df;
+  color: #fff;
+  font-size: 26rpx;
+  border-radius: 10rpx;
+  padding: 16rpx 20rpx;
+  box-sizing: border-box;
+  word-break: break-all;
+}
+.root .lcldetails .lcldetails-top .lcldetails-city.data-v-aed1d958 {
+  display: flex;
+  align-items: center;
+  margin-top: 26rpx;
+  color: #fff;
+}
+.root .lcldetails .lcldetails-top .lcldetails-city .city-item.data-v-aed1d958 {
+  display: flex;
+  flex-direction: column;
+  margin-right: 32rpx;
+}
+.root .lcldetails .lcldetails-top .lcldetails-city .city-item .enCity.data-v-aed1d958 {
+  font-weight: 550;
+  font-size: 30rpx;
+}
+.root .lcldetails .lcldetails-top .lcldetails-city .city-item .chCity.data-v-aed1d958 {
+  font-size: 24rpx;
+}
+.root .lcldetails .lcldetails-top .lcldetails-label.data-v-aed1d958 {
+  display: flex;
+  margin-top: 20rpx;
+  color: #fff;
+  font-size: 24rpx;
+}
+.root .lcldetails .lcldetails-top .lcldetails-label text.data-v-aed1d958 {
+  padding: 10rpx;
+  background: #5cb2f7;
+  margin-right: 16rpx;
+  border-radius: 10rpx;
+}
+.root .lcldetails .lcldetails-info.data-v-aed1d958 {
+  position: relative;
+  width: 100%;
+  background: #fff;
+  padding: 30rpx;
+  box-sizing: border-box;
+}
+.root .lcldetails .lcldetails-info text.data-v-aed1d958 {
+  display: block;
+  margin-bottom: 24rpx;
+  font-size: 28rpx;
+  color: #444754;
+}
+.root .lcldetails .lcldetails-info .type-tag.data-v-aed1d958 {
+  position: absolute;
+  top: 30rpx;
+  right: 30rpx;
+  color: #fff;
+  background: #4191df;
+  font-size: 26rpx;
+  border-radius: 20rpx;
+  text-align: center;
+  line-height: 50rpx;
+  padding: 4rpx 20rpx;
+}
+

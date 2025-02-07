@@ -1,0 +1,44 @@
+.login-form.data-v-6f1fbd70 {
+  margin-top: 2rpx;
+  padding: 36rpx;
+  background: #fff;
+}
+.login-form .form-item.data-v-6f1fbd70 {
+  display: flex;
+  align-items: center;
+}
+.login-form .form-item .form-name.data-v-6f1fbd70 {
+  margin-right: 30rpx;
+  color: #000;
+  font-weight: 500;
+  font-size: 28rpx;
+  white-space: nowrap;
+}
+.login-form .form-item .form-name .form-required.data-v-6f1fbd70 {
+  color: #ff233d;
+}
+.login-form .form-item .form-mobile.data-v-6f1fbd70 {
+  display: block;
+  background: #00a4ff;
+  width: 250rpx;
+  font-size: 24rpx;
+  white-space: nowrap;
+  margin: 0 0 0 auto;
+}
+.login-form .form-item input.data-v-6f1fbd70 {
+  height: 92rpx;
+  border-bottom: 1px solid #eee;
+  font-size: 30rpx;
+}
+.login-form .form-btn.data-v-6f1fbd70 {
+  margin-top: 40rpx;
+  padding-bottom: 40rpx;
+}
+.login-form .form-btn button.data-v-6f1fbd70 {
+  margin-bottom: 30rpx;
+  font-size: 32rpx;
+}
+.login-form .form-btn .login-confirm.data-v-6f1fbd70 {
+  background: #00a4ff;
+}
+

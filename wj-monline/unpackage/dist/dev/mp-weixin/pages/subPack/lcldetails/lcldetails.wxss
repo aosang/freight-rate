@@ -1,0 +1,112 @@
+.data-v-53bfbfe0 .uni-collapse-item__title-text {
+  white-space: break-spaces !important;
+  line-height: 38rpx;
+  font-size: 26rpx;
+}
+.data-v-53bfbfe0 .uni-collapse-item__wrap.is--transition {
+  line-height: 50rpx;
+}
+.root .lcldetails .storeBox.data-v-53bfbfe0 {
+  padding: 28rpx;
+  font-size: 26rpx;
+}
+.root .lcldetails .storeBox .storeCity.data-v-53bfbfe0 {
+  display: flex;
+  align-items: center;
+}
+.root .lcldetails .storeBox .storeCity .storeLine.data-v-53bfbfe0 {
+  width: 80rpx;
+  height: 1px;
+  background: #ccc;
+  margin: 0 6rpx;
+}
+.root .lcldetails .storeBox .storeType.data-v-53bfbfe0 {
+  display: flex;
+  border-bottom: 1px solid #d6d6d6;
+  padding-bottom: 30rpx;
+}
+.root .lcldetails .storeBox .storeType text.data-v-53bfbfe0 {
+  margin-right: 30rpx;
+}
+.root .lcldetails .storeBox .storeName.data-v-53bfbfe0 {
+  margin-top: 24rpx;
+}
+.root .lcldetails .storeBox .storeName .storeTitle.data-v-53bfbfe0 {
+  display: block;
+  margin: 40rpx 0 10rpx 0;
+}
+.root .lcldetails .storeBox .storeName .storeInfo.data-v-53bfbfe0 {
+  padding: 6rpx 30rpx;
+  color: #909399;
+}
+.root .lcldetails .lcldetails-top.data-v-53bfbfe0 {
+  width: 100%;
+  background: #48a1f7;
+  padding: 24rpx;
+  box-sizing: border-box;
+}
+.root .lcldetails .lcldetails-top .lcldetails-ship.data-v-53bfbfe0 {
+  background: #4191df;
+  color: #fff;
+  font-size: 26rpx;
+  border-radius: 10rpx;
+  padding: 16rpx 20rpx;
+  box-sizing: border-box;
+  word-break: break-all;
+}
+.root .lcldetails .lcldetails-top .lcldetails-city.data-v-53bfbfe0 {
+  display: flex;
+  align-items: center;
+  margin-top: 26rpx;
+  color: #fff;
+}
+.root .lcldetails .lcldetails-top .lcldetails-city .city-item.data-v-53bfbfe0 {
+  display: flex;
+  flex-direction: column;
+  margin-right: 32rpx;
+}
+.root .lcldetails .lcldetails-top .lcldetails-city .city-item .enCity.data-v-53bfbfe0 {
+  font-weight: 550;
+  font-size: 30rpx;
+}
+.root .lcldetails .lcldetails-top .lcldetails-city .city-item .chCity.data-v-53bfbfe0 {
+  font-size: 24rpx;
+}
+.root .lcldetails .lcldetails-top .lcldetails-label.data-v-53bfbfe0 {
+  display: flex;
+  margin-top: 20rpx;
+  color: #fff;
+  font-size: 24rpx;
+}
+.root .lcldetails .lcldetails-top .lcldetails-label text.data-v-53bfbfe0 {
+  padding: 10rpx;
+  background: #5cb2f7;
+  margin-right: 16rpx;
+  border-radius: 10rpx;
+}
+.root .lcldetails .lcldetails-info.data-v-53bfbfe0 {
+  position: relative;
+  width: 100%;
+  background: #fff;
+  padding: 30rpx;
+  box-sizing: border-box;
+}
+.root .lcldetails .lcldetails-info text.data-v-53bfbfe0 {
+  display: block;
+  margin-bottom: 24rpx;
+  font-size: 28rpx;
+  color: #444754;
+}
+.root .lcldetails .lcldetails-info .type-tag.data-v-53bfbfe0 {
+  position: absolute;
+  top: 30rpx;
+  right: 30rpx;
+  color: #fff;
+  background: #4191df;
+  font-size: 26rpx;
+  border-radius: 20rpx;
+  text-align: center;
+  line-height: 50rpx;
+  padding: 4rpx 20rpx;
+}
+

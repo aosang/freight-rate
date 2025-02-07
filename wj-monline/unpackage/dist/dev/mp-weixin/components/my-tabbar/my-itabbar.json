@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "uni-popup": "/uni_modules/uni-popup/components/uni-popup/uni-popup",
+    "pick-regions": "/components/pick-regions/pick-regions"
+  },
+  "component": true
+}

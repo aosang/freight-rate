@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "集卡陆运",
+  "enablePullDownRefresh": false,
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "pick-regions": "/components/pick-regions/pick-regions",
+    "uni-drawer": "/uni_modules/uni-drawer/components/uni-drawer/uni-drawer",
+    "uni-number-box": "/uni_modules/uni-number-box/components/uni-number-box/uni-number-box"
+  }
+}

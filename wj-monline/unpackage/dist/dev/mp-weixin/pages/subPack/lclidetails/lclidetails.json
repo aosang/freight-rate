@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "海进拼箱列表",
+  "enablePullDownRefresh": false,
+  "navigationBarTextStyle": "white",
+  "navigationBarBackgroundColor": "#48a1f7",
+  "usingComponents": {
+    "my-i-tabbar": "/components/my-tabbar/my-itabbar"
+  }
+}

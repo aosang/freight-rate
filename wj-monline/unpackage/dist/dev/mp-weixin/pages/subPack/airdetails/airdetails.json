@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "空运出口详情",
+  "enablePullDownRefresh": false,
+  "navigationBarTextStyle": "white",
+  "navigationBarBackgroundColor": "#48a1f7",
+  "usingComponents": {
+    "my-a-tabbar": "/components/my-tabbar/my-atabbar"
+  }
+}

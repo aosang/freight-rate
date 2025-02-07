@@ -1,0 +1,12 @@
+.savecard.data-v-4e8f05e0 {
+  padding: 30rpx;
+}
+.savecard .savecardImg.data-v-4e8f05e0 {
+  height: 80rpx;
+  margin-top: 48rpx;
+  background: #2979ff;
+  line-height: 80rpx;
+  font-size: 28rpx;
+  border: none;
+}
+

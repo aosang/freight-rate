@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "海出拼箱查询",
+  "enablePullDownRefresh": false,
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "uni-drawer": "/uni_modules/uni-drawer/components/uni-drawer/uni-drawer"
+  }
+}

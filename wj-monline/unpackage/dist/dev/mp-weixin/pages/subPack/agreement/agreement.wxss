@@ -1,0 +1,37 @@
+.agreement.data-v-06cb1f74 {
+  width: 100%;
+  background: #fff;
+  padding: 30rpx;
+  box-sizing: border-box;
+}
+.agreement .agreement-title.data-v-06cb1f74 {
+  color: #073290;
+  font-size: 30rpx;
+  text-align: center;
+  font-weight: 600;
+}
+.agreement .agreement-subtitle.data-v-06cb1f74 {
+  margin-top: 10rpx;
+  color: #000;
+  font-size: 30rpx;
+  font-weight: 600;
+  text-align: center;
+}
+.agreement .agreement-text.data-v-06cb1f74 {
+  font-size: 26rpx;
+  color: #555;
+  line-height: 48rpx;
+}
+.agreement .agreement-text .agreement-font text.data-v-06cb1f74 {
+  display: block;
+  margin-top: 24rpx;
+  font-size: 30rpx;
+  font-weight: 600;
+  color: #000;
+}
+.agreement .whiteBox.data-v-06cb1f74 {
+  width: 100%;
+  height: 80rpx;
+  background: transparent;
+}
+

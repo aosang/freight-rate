@@ -1,0 +1,44 @@
+.checkLogin.data-v-c8f0eeb4 {
+  width: 100%;
+  background: #fff;
+  overflow: hidden;
+  padding: 0 0 30rpx 0;
+}
+.checkLogin .checkTitle.data-v-c8f0eeb4 {
+  margin: 50rpx 0 30rpx 0;
+  font-size: 40rpx;
+  font-weight: 600;
+  color: #0a3190;
+  text-align: center;
+}
+.checkLogin .iconfont.data-v-c8f0eeb4 {
+  padding: 10rpx 0;
+  color: #F56C6C;
+  font-size: 100rpx;
+  text-align: center;
+}
+.checkLogin .checkLogin-title.data-v-c8f0eeb4 {
+  font-size: 28rpx;
+  line-height: 48rpx;
+  text-align: center;
+}
+.checkLogin .checkLogin-subtitle.data-v-c8f0eeb4 {
+  font-size: 24rpx;
+  margin-top: 10rpx;
+  color: #909399;
+}
+.checkLogin .checkLogin-home.data-v-c8f0eeb4 {
+  width: 460rpx;
+  height: 72rpx;
+  line-height: 72rpx;
+  margin-top: 40rpx;
+  font-size: 28rpx;
+  background: #409EFF;
+}
+.checkLogin .checkLogin-tips.data-v-c8f0eeb4 {
+  font-size: 24rpx;
+  color: #F56C6C;
+  padding: 20rpx;
+  box-sizing: border-box;
+}
+

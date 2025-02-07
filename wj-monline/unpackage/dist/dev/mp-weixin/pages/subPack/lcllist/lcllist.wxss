@@ -1,0 +1,199 @@
+.lcllist.data-v-9299ad50 {
+  position: relative;
+  width: 100%;
+}
+.lcllist .consignee-box .consignee-box-item.data-v-9299ad50 {
+  font-size: 26rpx;
+  color: #616577;
+  text-align: center;
+  padding: 24rpx 0;
+  border-bottom: 1px solid #eee;
+}
+.lcllist .consignee-box .consignee-box-item.data-v-9299ad50:last-child {
+  border: none;
+}
+.lcllist .filterTab.data-v-9299ad50 {
+  display: flex;
+  align-items: center;
+  position: fixed;
+  width: 100%;
+  height: 96rpx;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: #E4E7ED;
+  padding-bottom: constant(safe-area-inset-bottom);
+  padding-bottom: env(safe-area-inset-bottom);
+  z-index: 3;
+  border-top: 1px solid #eee;
+}
+.lcllist .filterTab .filter-item.data-v-9299ad50 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 25%;
+  font-size: 26rpx;
+  color: #48a1f7;
+  text-align: center;
+  border-right: 1px solid #e3e3e3;
+}
+.lcllist .filterTab .filter-item .iconfont.data-v-9299ad50 {
+  font-size: 40rpx;
+}
+.lcllist .filterTab .filter-item.data-v-9299ad50:last-child {
+  border-right: none;
+}
+.lcllist .lcllist-box.data-v-9299ad50 {
+  margin-top: 20rpx;
+}
+.lcllist .lcllist-box .lclList-empty.data-v-9299ad50 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: #fff;
+  padding: 70rpx 50rpx;
+}
+.lcllist .lcllist-box .lclList-empty .iconfont.data-v-9299ad50 {
+  font-size: 120rpx;
+  color: #818c96;
+}
+.lcllist .lcllist-box .lclList-empty .empty-text.data-v-9299ad50 {
+  margin-top: 20rpx;
+  font-size: 28rpx;
+  color: #616577;
+}
+.lcllist .lcllist-box .lcllist-item.data-v-9299ad50 {
+  position: relative;
+  background: #fff;
+  padding: 28rpx;
+  margin-bottom: 20rpx;
+}
+.lcllist .lcllist-box .lcllist-item .lclList-store.data-v-9299ad50 {
+  position: absolute;
+  right: 24rpx;
+  top: 24rpx;
+  width: 160rpx;
+  padding: 6rpx 0;
+  background: #48a1f7;
+  font-size: 24rpx;
+  border-radius: 8rpx;
+  color: #fff;
+  text-align: center;
+}
+.lcllist .lcllist-box .lcllist-item .closeStore.data-v-9299ad50 {
+  margin: 0 0 24rpx 24rpx;
+  background: #48a1f7;
+  text-align: center;
+  font-size: 26rpx;
+}
+.lcllist .lcllist-box .lcllist-item .store-city.data-v-9299ad50 {
+  display: flex;
+  align-items: center;
+  margin: 24rpx;
+}
+.lcllist .lcllist-box .lcllist-item .store-city text.data-v-9299ad50 {
+  font-size: 26rpx;
+}
+.lcllist .lcllist-box .lcllist-item .store-city .store-line.data-v-9299ad50 {
+  width: 80rpx;
+  height: 1px;
+  background: #ccc;
+  margin: 0 6rpx;
+}
+.lcllist .lcllist-box .lcllist-item .store-msg.data-v-9299ad50 {
+  font-size: 26rpx;
+  display: flex;
+  margin: 0 0 24rpx 24rpx;
+}
+.lcllist .lcllist-box .lcllist-item .store-msg view.data-v-9299ad50 {
+  margin-right: 30rpx;
+}
+.lcllist .lcllist-box .lcllist-item .type.data-v-9299ad50 {
+  display: flex;
+  align-items: center;
+}
+.lcllist .lcllist-box .lcllist-item .type .type-label.data-v-9299ad50 {
+  background: #818c96;
+  padding: 4rpx 8rpx;
+  color: #fff;
+  font-size: 24rpx;
+  border-radius: 8rpx;
+}
+.lcllist .lcllist-box .lcllist-item .type .type-weight.data-v-9299ad50 {
+  margin: 0 30rpx;
+}
+.lcllist .lcllist-box .lcllist-item .type .type-weight.data-v-9299ad50,
+.lcllist .lcllist-box .lcllist-item .type .type-info.data-v-9299ad50 {
+  font-size: 26rpx;
+  font-weight: 500;
+  color: #000;
+}
+.lcllist .lcllist-box .lcllist-item .city.data-v-9299ad50 {
+  display: flex;
+  align-items: center;
+  margin-top: 20rpx;
+  font-size: 24rpx;
+  font-weight: 530;
+  color: #48a1f7;
+}
+.lcllist .lcllist-box .lcllist-item .city .iconfont.data-v-9299ad50 {
+  margin: 0 10rpx;
+}
+.lcllist .lcllist-box .lcllist-item .city .city-start.data-v-9299ad50,
+.lcllist .lcllist-box .lcllist-item .city .city-end.data-v-9299ad50 {
+  background: #e8f5fd;
+  padding: 8rpx 10rpx;
+  border-radius: 8rpx;
+  white-space: nowrap;
+}
+.lcllist .lcllist-box .lcllist-item .info.data-v-9299ad50 {
+  display: flex;
+  align-items: center;
+  margin-top: 16rpx;
+}
+.lcllist .lcllist-box .lcllist-item .info .info-week.data-v-9299ad50 {
+  max-width: 330rpx;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.lcllist .lcllist-box .lcllist-item .info .info-company.data-v-9299ad50 {
+  max-width: 450rpx;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.lcllist .lcllist-box .lcllist-item .info text.data-v-9299ad50 {
+  margin-right: 20rpx;
+  font-size: 24rpx;
+  font-weight: 500;
+  color: #616577;
+}
+.lcllist .lcllist-box .lcllist-bottom.data-v-9299ad50 {
+  margin-top: 20rpx;
+}
+.lcllist .lcllist-box .lcllist-bottom .number.data-v-9299ad50 {
+  display: flex;
+}
+.lcllist .lcllist-box .lcllist-bottom .number .number-item.data-v-9299ad50 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  font-size: 28rpx;
+  color: #8a8e9d;
+}
+.lcllist .lcllist-box .lcllist-bottom .number .number-item .number-text.data-v-9299ad50 {
+  font-weight: 550;
+  color: #ef9441;
+  font-size: 28rpx;
+}
+.lcllist .lcllist-box .lcllist-bottom .number .number-item .number-unit.data-v-9299ad50 {
+  font-size: 26rpx;
+}
+.lcllist .lcllist-box .lcllist-bottom .date.data-v-9299ad50 {
+  margin-top: 20rpx;
+  color: #616577;
+  font-size: 26rpx;
+  font-weight: 500;
+}
+

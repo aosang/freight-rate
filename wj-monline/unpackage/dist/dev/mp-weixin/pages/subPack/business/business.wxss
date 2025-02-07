@@ -1,0 +1,25 @@
+.business.data-v-38010670 {
+  width: 100%;
+  background: #fff;
+  padding: 30rpx;
+  box-sizing: border-box;
+}
+.business .business-title.data-v-38010670 {
+  margin-bottom: 24rpx;
+  font-size: 32rpx;
+  font-weight: 550;
+}
+.business .business-image.data-v-38010670 {
+  width: 100%;
+}
+.business .business-image image.data-v-38010670 {
+  width: 100%;
+  border-radius: 10rpx;
+  margin-bottom: 24rpx;
+}
+.business .business-text.data-v-38010670 {
+  font-size: 28rpx;
+  color: #555;
+  line-height: 52rpx;
+}
+

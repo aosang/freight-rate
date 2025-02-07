@@ -1,0 +1,1 @@
+<view class="business data-v-38010670"><view class="business-title data-v-38010670">{{newBuisness.name}}</view><view class="business-image data-v-38010670"><image src="{{newBuisness.imgUrl}}" mode="widthFix" class="data-v-38010670"></image></view><view class="business-text data-v-38010670"><text class="data-v-38010670">{{newBuisness.text}}</text></view></view>

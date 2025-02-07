@@ -1,0 +1,11 @@
+{
+  "navigationBarTitleText": "专属客服",
+  "enablePullDownRefresh": false,
+  "navigationBarTextStyle": "black",
+  "usingComponents": {
+    "l-painter": "/uni_modules/lime-painter/components/l-painter/l-painter",
+    "l-painter-view": "/uni_modules/lime-painter/components/l-painter-view/l-painter-view",
+    "l-painter-image": "/uni_modules/lime-painter/components/l-painter-image/l-painter-image",
+    "l-painter-text": "/uni_modules/lime-painter/components/l-painter-text/l-painter-text"
+  }
+}

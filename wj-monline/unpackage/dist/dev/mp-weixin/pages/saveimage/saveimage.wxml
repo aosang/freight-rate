@@ -1,0 +1,1 @@
+<view class="container data-v-3d802dc4"><web-view src="{{url}}" data-event-opts="{{[['message',[['handleMessage',['$event']]]]]}}" bindmessage="__e" class="data-v-3d802dc4"></web-view></view>

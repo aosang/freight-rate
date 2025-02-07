@@ -1,0 +1,248 @@
+{
+	"lazyCodeLoading":"requiredComponents",
+	"pages": [{
+		"path": "pages/home/home",
+		"style": {
+			"navigationBarTitleText": "",
+			"navigationStyle": "custom",
+			"app-plus": {
+				"titleNView": false
+			}
+		}
+	}, {
+		"path": "pages/profile/profile",
+		"style": {
+			"navigationBarTextStyle": "white",
+			"navigationBarTitleText": "%navigate.profile%",
+			"enablePullDownRefresh": false
+		}
+	}, {
+		"path": "pages/register/register",
+		"style": {
+			"navigationBarTitleText": "%navigate.world%",
+			"enablePullDownRefresh": false,
+			"navigationBarTextStyle": "white"
+		}
+	}, {
+		"path": "pages/login/login",
+		"style": {
+			"navigationBarTitleText": "万嘉集运Online",
+			"enablePullDownRefresh": false,
+			"navigationBarTextStyle": "white",
+			"navigationBarBackgroundColor": "#00a4ff"
+		}
+
+	}, {
+		"path": "pages/checklogin/checklogin",
+		"style": {
+			"navigationBarTitleText": "%navigate.world%",
+			"enablePullDownRefresh": false,
+			"navigationBarTextStyle": "white"
+		}
+	}, {
+		"path": "pages/saveimage/saveimage",
+		"style": {
+			"navigationBarTitleText": "生成拼箱报价单",
+			"enablePullDownRefresh": false,
+			"navigationBarTextStyle": "white"
+		}
+	}, {
+		"path": "pages/savefclimage/savefclimage",
+		"style": {
+			"navigationBarTitleText": "生成整箱报价单",
+			"enablePullDownRefresh": false,
+			"navigationBarTextStyle": "white"
+		}
+	}],
+
+	// 分包
+	"subPackages": [{
+		"root": "pages/subPack", //子包的根目录
+		"pages": [{
+			"path": "business/business",
+			"style": {
+				"navigationBarTitleText": "%navigate.business%",
+				"enablePullDownRefresh": false,
+				"navigationBarTextStyle": "white"
+			}
+		}, {
+			"path": "editinfo/editinfo",
+			"style": {
+				"navigationBarTitleText": "%navigate.edit%",
+				"enablePullDownRefresh": false,
+				"navigationBarTextStyle": "white"
+			}
+		}, {
+			"path": "lcldetails/lcldetails",
+			"style": {
+				"navigationBarTitleText": "%navigate.details%",
+				"enablePullDownRefresh": false,
+				"navigationBarTextStyle": "white",
+				"navigationBarBackgroundColor": "#00a4ff"
+			}
+		}, {
+			"path": "lcllist/lcllist",
+			"style": {
+				"navigationBarTitleText": "%navigate.list%",
+				"enablePullDownRefresh": false,
+				"navigationBarTextStyle": "white"
+			}
+		}, {
+			"path": "lclilist/lclilist",
+			"style": {
+				"navigationBarTitleText": "进口拼箱列表",
+				"enablePullDownRefresh": false,
+				"navigationBarTextStyle": "white"
+			}
+		}, {
+			"path": "lclflist/lclflist",
+			"style": {
+				"navigationBarTitleText": "海出整箱列表",
+				"enablePullDownRefresh": false,
+				"navigationBarTextStyle": "white"
+			}
+		}, {
+			"path": "search/search",
+			"style": {
+				"navigationBarTitleText": "%navigate.export%",
+				"enablePullDownRefresh": false,
+				"navigationBarTextStyle": "white"
+			}
+		}, {
+			"path": "historyprice/historyprice",
+			"style": {
+				"navigationBarTitleText": "%navigate.hisory%",
+				"enablePullDownRefresh": false,
+				"navigationBarTextStyle": "white"
+			}
+		}, {
+			"path": "historydetails/historydetails",
+			"style": {
+				"navigationBarTitleText": "%history.details%",
+				"enablePullDownRefresh": false,
+				"navigationBarTextStyle": "white"
+			}
+		}, {
+			"path": "historyFdetails/historyFdetails",
+			"style": {
+				"navigationBarTitleText": "海出整箱",
+				"enablePullDownRefresh": false,
+				"navigationBarTextStyle": "white"
+			}
+		}, {
+			"path": "isearch/isearch",
+			"style": {
+				"navigationBarTitleText": "%navigate.import%",
+				"enablePullDownRefresh": false,
+				"navigationBarTextStyle": "white"
+			}
+		}, {
+			"path": "fsearch/fsearch",
+			"style": {
+				"navigationBarTitleText": "出口整箱",
+				"enablePullDownRefresh": false,
+				"navigationBarTextStyle": "white"
+			}
+		}, {
+			"path": "lclidetails/lclidetails",
+			"style": {
+				"navigationBarTitleText": "%navigate.imdetails%",
+				"enablePullDownRefresh": false,
+				"navigationBarTextStyle": "white",
+				"navigationBarBackgroundColor": "#00a4ff"
+			}
+		}, {
+			"path": "lclfdetails/lclfdetails",
+			"style": {
+				"navigationBarTitleText": "海出整箱",
+				"enablePullDownRefresh": false,
+				"navigationBarTextStyle": "white",
+				"navigationBarBackgroundColor": "#00a4ff"
+			}
+		}, {
+			"path": "agreement/agreement",
+			"style": {
+				"navigationBarTitleText": "%navigate.agreement%",
+				"enablePullDownRefresh": false,
+				"navigationBarTextStyle": "white"
+			}
+		}, {
+			"path": "agreement/agreementen",
+			"style": {
+				"navigationBarTitleText": "%navigate.agreement%",
+				"enablePullDownRefresh": false,
+				"navigationBarTextStyle": "white"
+			}
+		}, {
+			"path": "savecard/savecard",
+			"style": {
+				"navigationBarTitleText": "%navigate.service%",
+				"enablePullDownRefresh": false,
+				"navigationBarTextStyle": "white"
+			}
+		}, {
+			"path": "landsearch/landsearch",
+			"style": {
+				"navigationBarTitleText": "%ltl.title%",
+				"enablePullDownRefresh": false,
+				"navigationBarTextStyle": "white"
+			}
+		}, {
+			"path": "trucksearch/trucksearch",
+			"style": {
+				"navigationBarTitleText": "集卡陆运",
+				"enablePullDownRefresh": false,
+				"navigationBarTextStyle": "white"
+			}
+		}, {
+			"path": "landList/landList",
+			"style": {
+				"navigationBarTitleText": "散货查询列表",
+				"enablePullDownRefresh": false,
+				"navigationBarTextStyle": "white"
+			}
+		}, {
+			"path": "truckList/truckList",
+			"style": {
+				"navigationBarTitleText": "集卡查询列表",
+				"enablePullDownRefresh": false,
+				"navigationBarTextStyle": "white"
+			}
+		}]
+	}],
+
+	"preloadRule": {
+		"pages/home/home": {
+			"network": "all",
+			"packages": ["pages/subPack"]
+		}
+	},
+
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#00a4ff",
+		"backgroundColor": "#F8F8F8"
+	},
+
+	"tabBar": {
+		"backgroundColor": "#fff",
+		"borderStyle": "black",
+		"selectedColor": "#00a4ff",
+		"color": "#cdcdcd",
+
+		"list": [{
+			"pagePath": "pages/home/home",
+			"iconPath": "static/images/tabBar/home.png",
+			"selectedIconPath": "static/images/tabBar/home_o.png",
+			"text": "%tabbar.home%"
+		}, {
+			"pagePath": "pages/profile/profile",
+			"iconPath": "static/images/tabBar/profile.png",
+			"selectedIconPath": "static/images/tabBar/profile_o.png",
+			"text": "%tabbar.profile%"
+		}]
+	},
+
+	"uniIdRouter": {}
+}

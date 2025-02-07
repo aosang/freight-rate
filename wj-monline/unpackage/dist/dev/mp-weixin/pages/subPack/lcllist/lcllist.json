@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "海出拼箱列表",
+  "enablePullDownRefresh": false,
+  "navigationBarTextStyle": "black",
+  "onReachBottomDistance": 50,
+  "usingComponents": {
+    "uni-popup": "/uni_modules/uni-popup/components/uni-popup/uni-popup",
+    "uni-load-more": "/uni_modules/uni-load-more/components/uni-load-more/uni-load-more"
+  }
+}

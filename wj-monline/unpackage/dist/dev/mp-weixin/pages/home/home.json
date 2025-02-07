@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "",
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "ws-wx-privacy": "/uni_modules/ws-wx-privacy/components/ws-wx-privacy/ws-wx-privacy"
+  }
+}

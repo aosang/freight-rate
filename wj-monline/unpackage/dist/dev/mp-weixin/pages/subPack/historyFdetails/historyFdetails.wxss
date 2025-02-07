@@ -1,0 +1,121 @@
+.historydetails-box.data-v-18f01c12 {
+  width: 100%;
+  background: #4ba4f8;
+  overflow: hidden;
+  padding: 30rpx;
+  box-sizing: border-box;
+}
+.historydetails-box .historydetails-ship.data-v-18f01c12 {
+  margin: 0 auto;
+  background: #4191df;
+  color: #fff;
+  padding: 12rpx 20rpx;
+  border-radius: 10rpx;
+  font-size: 26rpx;
+  word-break: break-all;
+}
+.historydetails-box .historydetails-port.data-v-18f01c12 {
+  display: flex;
+  align-items: center;
+  margin-top: 20rpx;
+}
+.historydetails-box .historydetails-port .historydetails-line.data-v-18f01c12 {
+  width: 64rpx;
+  height: 2rpx;
+  margin: 0 20rpx;
+  background: #fff;
+}
+.historydetails-box .historydetails-port .historydetails-city.data-v-18f01c12 {
+  display: flex;
+  flex-direction: column;
+}
+.historydetails-box .historydetails-port .historydetails-city .historydetails-city-en.data-v-18f01c12 {
+  color: #fff;
+  font-weight: 550;
+  font-size: 30rpx;
+}
+.historydetails-box .historydetails-port .historydetails-city .historydetails-city-zh.data-v-18f01c12 {
+  color: #fff;
+  font-weight: 500;
+  font-size: 26rpx;
+}
+.historydetails-box .historydetails-label.data-v-18f01c12 {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 20rpx;
+}
+.historydetails-box .historydetails-label text.data-v-18f01c12 {
+  margin: 0 20rpx 20rpx 0;
+  background: #5cb2f7;
+  padding: 10rpx;
+  color: #fff;
+  font-size: 26rpx;
+  border-radius: 10rpx;
+}
+.historydetails-info.data-v-18f01c12 {
+  position: relative;
+  width: 100%;
+  background: #fff;
+  color: #555;
+  padding: 30rpx;
+  font-size: 28rpx;
+  box-sizing: border-box;
+}
+.historydetails-info .historydetails-title.data-v-18f01c12 {
+  margin-bottom: 20rpx;
+}
+.historydetails-info text.data-v-18f01c12 {
+  position: absolute;
+  top: 24rpx;
+  right: 24rpx;
+  color: #fff;
+  font-size: 28rpx;
+  background: #5cb2f7;
+  padding: 10rpx;
+  border-radius: 10rpx;
+}
+.historydetails-fee.data-v-18f01c12 {
+  width: 100%;
+  background: #fff;
+  margin: 16rpx 0 0 0;
+}
+.historydetails-fee .historydetails-fee-pub.data-v-18f01c12 {
+  padding: 20rpx 30rpx;
+  box-sizing: border-box;
+  border-bottom: 1px solid #eee;
+}
+.historydetails-fee .historydetails-fee-title.data-v-18f01c12 {
+  color: #000;
+  font-size: 28rpx;
+  font-weight: 550;
+}
+.historydetails-fee .historydetails-fee-total.data-v-18f01c12 {
+  color: #ef9441;
+  font-size: 28rpx;
+  font-weight: 500;
+  margin-top: 10rpx;
+}
+.historydetails-fee .historydetails-fee-item.data-v-18f01c12 {
+  padding: 20rpx 30rpx 20rpx 30rpx;
+  display: flex;
+  flex-direction: column;
+}
+.historydetails-fee .historydetails-fee-item .historydetails-name.data-v-18f01c12 {
+  font-size: 28rpx;
+}
+.historydetails-fee .historydetails-fee-item .historydetails-price.data-v-18f01c12 {
+  color: #4191df;
+  font-size: 28rpx;
+}
+.historydetails-fee .historydetails-fee-remark.data-v-18f01c12 {
+  border-top: 1px solid #eee;
+  padding: 20rpx 30rpx;
+  font-size: 28rpx;
+  color: #8a8e9d;
+}
+.whiteBox.data-v-18f01c12 {
+  width: 100%;
+  height: 100rpx;
+  background: transparent;
+}
+

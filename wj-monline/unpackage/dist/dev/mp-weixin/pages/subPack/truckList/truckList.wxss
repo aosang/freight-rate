@@ -1,0 +1,135 @@
+.landList.data-v-db287ea8 {
+  width: 100%;
+}
+.landList .showWindowText.data-v-db287ea8 {
+  display: block;
+  padding: 24rpx;
+  font-size: 30rpx;
+  color: #555;
+  border-top: 1px solid #eee;
+}
+.landList .lcllist-box.data-v-db287ea8 {
+  margin-top: 20rpx;
+}
+.landList .lcllist-box .lclList-empty.data-v-db287ea8 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: #fff;
+  padding: 70rpx 50rpx;
+}
+.landList .lcllist-box .lclList-empty .iconfont.data-v-db287ea8 {
+  font-size: 120rpx;
+  color: #818c96;
+}
+.landList .lcllist-box .lclList-empty .empty-text.data-v-db287ea8 {
+  margin-top: 20rpx;
+  font-size: 28rpx;
+  color: #616577;
+}
+.landList .lcllist-box .lcllist-item.data-v-db287ea8 {
+  position: relative;
+  background: #fff;
+  padding: 28rpx;
+  margin-bottom: 20rpx;
+}
+.landList .lcllist-box .lcllist-item .lcllist-price.data-v-db287ea8 {
+  position: absolute;
+  top: 24rpx;
+  right: 24rpx;
+  display: block;
+  background: #48a1f7;
+  color: #e8f5fd;
+  font-size: 30rpx;
+  padding: 6rpx 16rpx;
+  border-radius: 4rpx;
+}
+.landList .lcllist-box .lcllist-item .type.data-v-db287ea8 {
+  display: flex;
+  align-items: center;
+}
+.landList .lcllist-box .lcllist-item .type .type-label.data-v-db287ea8 {
+  background: #818c96;
+  padding: 4rpx 8rpx;
+  color: #fff;
+  font-size: 24rpx;
+  border-radius: 8rpx;
+}
+.landList .lcllist-box .lcllist-item .type .type-weight.data-v-db287ea8 {
+  margin: 0 30rpx;
+}
+.landList .lcllist-box .lcllist-item .type .type-weight.data-v-db287ea8,
+.landList .lcllist-box .lcllist-item .type .type-info.data-v-db287ea8 {
+  font-size: 26rpx;
+  font-weight: 500;
+  color: #000;
+}
+.landList .lcllist-box .lcllist-item .city.data-v-db287ea8 {
+  display: flex;
+  align-items: center;
+  margin-top: 20rpx;
+  font-size: 24rpx;
+  font-weight: 530;
+  color: #48a1f7;
+}
+.landList .lcllist-box .lcllist-item .city .iconfont.data-v-db287ea8 {
+  margin: 0 10rpx;
+}
+.landList .lcllist-box .lcllist-item .city .city-start.data-v-db287ea8,
+.landList .lcllist-box .lcllist-item .city .city-end.data-v-db287ea8 {
+  background: #e8f5fd;
+  padding: 8rpx 10rpx;
+  border-radius: 8rpx;
+  white-space: nowrap;
+}
+.landList .lcllist-box .lcllist-item .info.data-v-db287ea8 {
+  display: flex;
+  align-items: center;
+  margin-top: 16rpx;
+}
+.landList .lcllist-box .lcllist-item .info text.data-v-db287ea8 {
+  margin-right: 24rpx;
+  font-size: 24rpx;
+  font-weight: 500;
+  color: #616577;
+}
+.landList .lcllist-box .lcllist-bottom.data-v-db287ea8 {
+  margin-top: 20rpx;
+}
+.landList .lcllist-box .lcllist-bottom .number.data-v-db287ea8 {
+  display: flex;
+}
+.landList .lcllist-box .lcllist-bottom .number .number-item.data-v-db287ea8 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  font-size: 28rpx;
+  color: #8a8e9d;
+}
+.landList .lcllist-box .lcllist-bottom .number .number-item .number-text.data-v-db287ea8 {
+  display: block;
+  width: 170rpx;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-weight: 500;
+  color: #ef9441;
+  font-size: 28rpx;
+}
+.landList .lcllist-box .lcllist-bottom .number .number-item .number-unit.data-v-db287ea8 {
+  display: flex;
+  align-items: center;
+  font-size: 26rpx;
+}
+.landList .lcllist-box .lcllist-bottom .number .number-item .number-unit .iconfont.data-v-db287ea8 {
+  font-size: 32rpx;
+  vertical-align: middle;
+  margin-left: 5rpx;
+}
+.landList .lcllist-box .lcllist-bottom .date.data-v-db287ea8 {
+  margin-top: 20rpx;
+  color: #616577;
+  font-size: 26rpx;
+  font-weight: 500;
+}
+
