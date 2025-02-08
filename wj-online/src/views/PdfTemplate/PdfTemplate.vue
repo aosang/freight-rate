@@ -70,8 +70,10 @@
               <p>LCL{{ dateNumber }}</p>
             </div>
             <div class="info-contact">
-              <p>联系人：<span>{{userInfo.F_RealName ? userInfo.F_RealName : "--"}}</span></p>
-              <p>电话：<span>{{userInfo.F_Mobile ? userInfo.F_Telephone : "--"}}</span></p>
+              <!-- <p>联系人：<span>{{userInfo.F_RealName ? userInfo.F_RealName : "--"}}</span></p> -->
+              <p>联系人：Miles</p>
+              <!-- <p>电话：<span>{{userInfo.F_Mobile ? userInfo.F_Telephone : "--"}}</span></p> -->
+              <p>电话：1234567890</p>
               <p>邮箱：<span>Miles@example.com</span></p>
               <p>时间：<span>{{ dateText }}&nbsp;{{ timeText }}</span></p>
             </div>

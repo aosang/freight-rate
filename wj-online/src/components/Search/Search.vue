@@ -39,7 +39,7 @@ export default {
     position: absolute;
     height: 48px;
     right: 85px;
-    top: 64%;
+    top: 59%;
     transform: translateY(-50%);
   }
 }
